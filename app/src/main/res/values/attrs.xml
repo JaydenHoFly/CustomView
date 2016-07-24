@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="j_textSize" format="dimension" />
+    <attr name="j_text" format="string" />
+    <attr name="j_src" format="integer" />
+    <declare-styleable name="NoPaddingTextView">
+        <attr name="j_textSize" />
+        <attr name="j_text" />
+    </declare-styleable>
+    <declare-styleable name="CustomView02">
+        <attr name="j_textSize" />
+        <attr name="j_text" />
+        <attr name="j_src"/>
+    </declare-styleable>
+</resources>
